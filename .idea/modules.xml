@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Set/Quqrtz/Quqrtz.iml" filepath="$PROJECT_DIR$/Set/Quqrtz/Quqrtz.iml" />
       <module fileurl="file://$PROJECT_DIR$/Set/Set.iml" filepath="$PROJECT_DIR$/Set/Set.iml" />
     </modules>
   </component>
