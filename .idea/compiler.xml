@@ -7,10 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Quqrtz" />
+        <module name="Encrpt-decrpt" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Encrpt-decrpt" target="1.8" />
       <module name="Quqrtz" target="1.8" />
+      <module name="Thumbnailator" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
